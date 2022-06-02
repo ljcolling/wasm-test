@@ -1,0 +1,12 @@
+{
+  "name": "p-sim",
+  "version": "0.1.0",
+  "files": [
+    "p_sim_bg.wasm",
+    "p_sim.js",
+    "p_sim.d.ts"
+  ],
+  "module": "p_sim.js",
+  "types": "p_sim.d.ts",
+  "sideEffects": false
+}
